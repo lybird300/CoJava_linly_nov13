@@ -1,0 +1,22 @@
+*.class
+*.ser
+*.txt
+regions/
+# Package Files #
+*.jar
+*.war
+*.ear
+inversion*
+.classpath
+.settings/
+
+#data files #####
+out.hap-*
+out.pos-*
+params*
+segs
+recParams
+model.*
+log
+*.decode
+/bin/
